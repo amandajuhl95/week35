@@ -4,13 +4,17 @@
 
 [Exercise](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! 
 
-Remember to download word document to see the solution 
+Remember to download word document to see the solution!
 
 ### Wednesday
 
-[Exercise 1-3](https://github.com/amandajuhl95/week34/tree/master/wednesday/ex-1-3/rest_exercise) - solution completed!
+[Exercise 1-6](https://github.com/amandajuhl95/week35/tree/master/wednesday/wednesdayexercise1to6) - solution completed!
 
-[Exercise 4](https://github.com/amandajuhl95/week34/tree/master/tuesday/ex-2-3/names) - solution completed!
+[Exercise 7-8](https://github.com/amandajuhl95/week34/tree/master/tuesday/ex-2-3/names) - solution completed!
+
+[Word document]() - solution completed!
+
+Remember to download word document to see the solution!
 
 ### Thursday
 
