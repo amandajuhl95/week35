@@ -24,6 +24,6 @@ Remember to download word document to see the solution!
 
 [Picture of A-rating](https://github.com/amandajuhl95/week35/tree/master/thursday)
 
-[Link to A-rating](https://www.ssllabs.com/ssltest/analyze.html?d=ajuhlhansen.dk) 
+[Link to SSL rating](https://www.ssllabs.com/ssltest/analyze.html?d=ajuhlhansen.dk) 
 
 
