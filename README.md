@@ -2,13 +2,17 @@
 
 ### Tuesday
 
-[Exercise](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! - Remember to download word document to see the solution!
+[Exercise](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! 
+
+Remember to download word document to see the solution!
 
 ### Wednesday
 
-[Word document](https://github.com/amandajuhl95/week35/blob/master/wednesday/TheHttpProtocol-solution.docx) - solution completed! - Remember to download word document to see the solution!
+[Word document](https://github.com/amandajuhl95/week35/blob/master/wednesday/TheHttpProtocol-solution.docx) - solution completed! 
 
-#### Related projects
+Remember to download word document to see the solution!
+
+### Wednesday - related projects
 
 [Exercise 1-6](https://github.com/amandajuhl95/week35/tree/master/wednesday/wednesdayexercise1to6) - solution completed!
 
