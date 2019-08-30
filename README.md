@@ -2,7 +2,7 @@
 
 ### Tuesday
 
-[Exercise](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! 
+[Word document](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! 
 
 Remember to download word document to see the solution!
 
