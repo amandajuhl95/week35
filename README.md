@@ -2,15 +2,11 @@
 
 ### Tuesday
 
-[Exercise](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! 
-
-Remember to download word document to see the solution!
+[Exercise](https://github.com/amandajuhl95/week35/blob/master/tuesday/Fundamental%20Network%20Topics-solution.docx) - solution completed! - Remember to download word document to see the solution!
 
 ### Wednesday
 
-[Word document]() - solution completed!
-
-Remember to download word document to see the solution!
+[Word document](https://github.com/amandajuhl95/week35/blob/master/wednesday/TheHttpProtocol-solution.docx) - solution completed! - Remember to download word document to see the solution!
 
 #### Related projects
 
@@ -20,12 +16,8 @@ Remember to download word document to see the solution!
 
 ### Thursday
 
-[Exercise 1-3](https://github.com/amandajuhl95/week34/tree/master/thursday/ex-1-4) - solution completed!
+[Picture of A-rating]() - solution completed!
 
 [Exercise 4](http://167.71.58.2:8080/week1day4/api/employee) - solution completed - link to droplet. 
 
-### Friday
 
-[Studypoint exercise](https://github.com/amandajuhl95/week34/tree/master/friday/studypoint_exercise) - solution completed!
-
-[Link to droplet](http://167.71.58.2:8080/studypointexercise/api/bankcustomer) - solution completed!
