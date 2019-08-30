@@ -16,7 +16,7 @@
 
 ### Thursday - tutorial completed!
 
-[Link to domain](https://ajuhlhansen.dk) 
+[Link to domain](https://ajuhlhansen.dk) - to verify access on website ONLY via SSL (https), look at the network tab
 
 [Picture of A-rating](https://github.com/amandajuhl95/week35/tree/master/thursday)
 
