@@ -8,13 +8,15 @@ Remember to download word document to see the solution!
 
 ### Wednesday
 
-[Exercise 1-6](https://github.com/amandajuhl95/week35/tree/master/wednesday/wednesdayexercise1to6) - solution completed!
-
-[Exercise 7-8](https://github.com/amandajuhl95/week34/tree/master/tuesday/ex-2-3/names) - solution completed!
-
 [Word document]() - solution completed!
 
 Remember to download word document to see the solution!
+
+#### Related projects
+
+[Exercise 1-6](https://github.com/amandajuhl95/week35/tree/master/wednesday/wednesdayexercise1to6) - solution completed!
+
+[Exercise 7-8](https://github.com/amandajuhl95/week35/tree/master/wednesday/wednesdayexercise7and8) - solution completed!
 
 ### Thursday
 
