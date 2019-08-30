@@ -14,10 +14,12 @@
 
 [Exercise 7-8](https://github.com/amandajuhl95/week35/tree/master/wednesday/wednesdayexercise7and8) - solution completed!
 
-### Thursday
+### Thursday - tutorial completed!
 
-[Picture of A-rating]() - solution completed!
+[Link to domain] (https://ajuhlhansen.dk) 
 
-[Exercise 4](http://167.71.58.2:8080/week1day4/api/employee) - solution completed - link to droplet. 
+[Picture of A-rating](https://github.com/amandajuhl95/week35/tree/master/thursday)
+
+[Link to A-rating](https://www.ssllabs.com/ssltest/analyze.html?d=ajuhlhansen.dk) 
 
 
